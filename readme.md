@@ -9,7 +9,7 @@ SpaceFn 是一种键盘改良布局方案，其核心思想是把空格键作为
 本方案是通过AutoHotKey实现的, 
 映射:
 
-Space + 1~0,-= -> F1~12
+Space + 1~0,\-= \-> F1~12
 
 Space + e -> Esc
 
